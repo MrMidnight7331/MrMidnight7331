@@ -1,18 +1,25 @@
 # Under construction...
-![Visitor Count](https://profile-counter.glitch.me/MrMidnight7331/count.svg)
 
-## About Me
+<h2 align="center"> Visitor Count</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+    <img src="https://profile-counter.glitch.me/MrMidnight7331/count.svg">
+</p>
 
-## Tools & Languages
+## About Me:
+stuff
 
-### Support me on Kofi!
+### What I do:
+stuff
+
+## Tools & Languages:
+stuff
+
+### Support me:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S7NRQSG)
+
+BTC:
+
+ETH:
+
+XMR: 
