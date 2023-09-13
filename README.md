@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/MrMidnight7331/count.svg)
 
@@ -14,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-# Support me on Kofi!
+### Support me on Kofi!
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S7NRQSG)
