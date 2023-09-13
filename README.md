@@ -1,10 +1,7 @@
 ### Hi there 👋
 
+# Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/MrMidnight7331/count.svg)
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S7NRQSG)
-
-**MrMidnight7331/MrMidnight7331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,3 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+# Support me on Kofi!
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S7NRQSG)
