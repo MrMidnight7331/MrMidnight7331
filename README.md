@@ -15,6 +15,12 @@ stuff
 ## Tools & Languages:
 stuff
 
+## Badges:
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Mr.Midnight.png" alt="TryHackMe">
+
+
+
 ### Support me:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S7NRQSG)
 
