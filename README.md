@@ -8,6 +8,11 @@
 - **Age:** 17
 - **Hobbies:** Hacking, Programming, Game Developement
 
+## <samp> Hardwares I use: </samp>
+- **LAPTOP:** MacBook pro 2022, Razer Book 13
+- **HAK5:** Rubber Ducky, Wifi Pineapple, Bash Bunny, Screen Crab, Key Croc
+- **DEV Boards:** Raspberry Pi (4, 3, Zero), tufty2040
+- **MISC:** HackRf One 
 
 ## <samp> Programming Languages: </samp>
 <p align="left">
