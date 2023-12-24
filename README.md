@@ -12,7 +12,8 @@
 - **LAPTOP:** MacBook pro 2022, Razer Book 13
 - **HAK5:** Rubber Ducky, Wifi Pineapple, Bash Bunny, Screen Crab, Key Croc
 - **DEV Boards:** Raspberry Pi (4, 3, Zero), tufty2040
-- **MISC:** HackRf One 
+- **MISC:** HackRf One
+
 
 ## <samp> Programming Languages: </samp>
 <p align="left">
@@ -23,7 +24,6 @@
     <img src="" alt="git" width="40" height="40"/>
     
 </p>
-
 
 ## <samp> Tools I use: </samp>
 <p align="left">
