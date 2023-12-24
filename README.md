@@ -1,31 +1,31 @@
-# Under construction...
+<pre align="center"><h1>MrMidnight</h1>
+❀ <a href="https://github.com/MrMidnight7331/">PROGRAMMER</a> • <a href="https://www.youtube.com/channel/UCwEzzIh05UqfQxhgWHVHmeQ">YOUTUBER</a> • <a href="https://app.hackthebox.com/profile/526684">HACKER</a> ❀
+</pre>
 
-<h2 align="center"> Visitor Count</h2>
+## <samp> About Me: </samp>
+- **Name:** Tieno
+- **Occupation:** Student
+- **Age:** 17
+- **Hobbies:** Hacking, Programming, Game Developement
 
-<p align="center">
-    <img src="https://profile-counter.glitch.me/MrMidnight7331/count.svg">
+
+## <samp> Programming Languages: </samp>
+<p align="left">
+    <img src="https://github.com/MrMidnight7331/MrMidnight7331/blob/main/Icons/python.png" alt="git" width="40" height="40"/>
+    <img src="https://github.com/MrMidnight7331/MrMidnight7331/blob/main/Icons/java.png" alt="git" width="40" height="40"/>
+    <img src="https://github.com/MrMidnight7331/MrMidnight7331/blob/main/Icons/lua.png" alt="git" width="40" height="40"/>
+    <img src="https://github.com/MrMidnight7331/MrMidnight7331/blob/main/Icons/bash.png" alt="git" width="40" height="40"/>
+    <img src="" alt="git" width="40" height="40"/>
+    
 </p>
 
-## About Me:
-stuff
 
-### What I do:
-stuff
-
-## Tools & Languages:
-stuff
-
-## Badges:
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/Mr.Midnight.png" alt="TryHackMe">
-
-
-
-### Support me:
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S7NRQSG)
-
-BTC:
-
-ETH:
-
-XMR: 
+## <samp> Tools I use: </samp>
+<p align="left">
+    <img src="https://github.com/MrMidnight7331/MrMidnight7331/blob/main/Icons/pycharm.png" alt="git" width="40" height="40"/>
+    <img src="https://github.com/MrMidnight7331/MrMidnight7331/blob/main/Icons/ij.png" alt="git" width="40" height="40"/>
+    <img src="https://github.com/MrMidnight7331/MrMidnight7331/blob/main/Icons/vscode.png" alt="git" width="40" height="40"/>
+    <img src="https://github.com/MrMidnight7331/MrMidnight7331/blob/main/Icons/linux.png" alt="git" width="40" height="40"/>
+    <img src="" alt="git" width="40" height="40"/>
+    
+</p>
