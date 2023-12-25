@@ -21,7 +21,7 @@
     <img src="https://github.com/MrMidnight7331/MrMidnight7331/blob/main/Icons/java.png" alt="git" width="40" height="40"/>
     <img src="https://github.com/MrMidnight7331/MrMidnight7331/blob/main/Icons/lua.png" alt="git" width="40" height="40"/>
     <img src="https://github.com/MrMidnight7331/MrMidnight7331/blob/main/Icons/bash.png" alt="git" width="40" height="40"/>
-    <img src="" alt="git" width="40" height="40"/>
+    <img src="https://github.com/MrMidnight7331/MrMidnight7331/blob/main/Icons/md.png" alt="git" width="40" height="40"/>
     
 </p>
 
@@ -31,6 +31,17 @@
     <img src="https://github.com/MrMidnight7331/MrMidnight7331/blob/main/Icons/ij.png" alt="git" width="40" height="40"/>
     <img src="https://github.com/MrMidnight7331/MrMidnight7331/blob/main/Icons/vscode.png" alt="git" width="40" height="40"/>
     <img src="https://github.com/MrMidnight7331/MrMidnight7331/blob/main/Icons/linux.png" alt="git" width="40" height="40"/>
-    <img src="" alt="git" width="40" height="40"/>
+    <img src="https://github.com/MrMidnight7331/MrMidnight7331/blob/main/Icons/nv.png" alt="git" width="40" height="40"/>
     
+</p>
+
+## <samp> Languages I want to learn: </samp>
+<p align="left">
+    <img src="https://github.com/MrMidnight7331/MrMidnight7331/blob/main/Icons/js.png" alt="git" width="40" height="40"/>
+    <img src="https://github.com/MrMidnight7331/MrMidnight7331/blob/main/Icons/C.png" alt="git" width="40" height="40"/>
+    <img src="https://github.com/MrMidnight7331/MrMidnight7331/blob/main/Icons/rust.png" alt="git" width="40" height="40"/>
+    <img src="https://github.com/MrMidnight7331/MrMidnight7331/blob/main/Icons/cs.png" alt="git" width="40" height="40"/>
+    <img src="https://github.com/MrMidnight7331/MrMidnight7331/blob/main/Icons/swift.png" alt="git" width="40" height="40"/>
+
+
 </p>
