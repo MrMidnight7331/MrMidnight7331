@@ -1,5 +1,5 @@
 <pre align="center"><h1>MrMidnight</h1>
-❀ <a href="https://github.com/MrMidnight7331/">PROGRAMMER</a> • <a href="https://www.youtube.com/channel/UCwEzzIh05UqfQxhgWHVHmeQ">YOUTUBER</a> • <a href="https://app.hackthebox.com/profile/526684">HACKER</a> ❀
+💜 <a href="https://github.com/MrMidnight7331/">PROGRAMMER</a> • <a href="https://www.youtube.com/channel/UCwEzzIh05UqfQxhgWHVHmeQ">YOUTUBER</a> • <a href="https://app.hackthebox.com/profile/526684">HACKER</a> 💜
 </pre>
 
 ## <samp> About Me: </samp>
@@ -70,3 +70,11 @@
 </table>
 </div>
 
+
+## <samp> Support me: </samp>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S7NRQSG)
+
+<pre align="center">
+   💜 <a href="https://github.com/Yuma-Tsushima07/Yuma-Tsushima#-48656c6c6f2045766572796f6e65-">GO BACK</a> 💜
+</pre>
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:ACF9F7,50:FCFCFC,100:F8ACF9&height=1)
