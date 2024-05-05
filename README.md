@@ -14,6 +14,12 @@
 - **DEV Boards:** Raspberry Pi (4, 3, Zero), tufty2040
 - **MISC:** HackRf One
 
+## <samp> Miscellaneous Projects I did: </samp>
+- **Raspberry Pi:** Pihole, Pwnagotchi, Retro Pie, Private Server
+- **HAK5:** Cloud C2, own hak5 attacks
+- **Crypto:** Monero node, Litecoin node, Pyrin solo pool, Kaspa solo pool
+
+
 
 ## <samp> Programming Languages: </samp>
 <p align="left">
