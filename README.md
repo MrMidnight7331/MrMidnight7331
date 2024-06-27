@@ -1,4 +1,4 @@
-<pre align="center"><h1>MrMidnight</h1>
+<pre align="right"><h1>MrMidnight</h1>
 💜 <a href="https://github.com/MrMidnight7331/">PROGRAMMER</a> • <a href="https://www.youtube.com/channel/UCwEzzIh05UqfQxhgWHVHmeQ">YOUTUBER</a> • <a href="https://app.hackthebox.com/profile/526684">HACKER</a> 💜
 </pre>
 
