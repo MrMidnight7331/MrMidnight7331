@@ -9,6 +9,7 @@
 - **Hobbies:** Hacking, Programming, Game Developement
 
 ## <samp> Hardware I use: </samp>
+- **WORKSTATION:** intel i7 14700k, Nvidia 4070 Super, 64GB Corsair Dominator Titanium RAM
 - **LAPTOP:** MacBook pro 2022, Razer Book 13
 - **HAK5:** Rubber Ducky, Wifi Pineapple, Bash Bunny, Screen Crab, Key Croc
 - **DEV Boards:** Raspberry Pi (4, 3, Zero), tufty2040
