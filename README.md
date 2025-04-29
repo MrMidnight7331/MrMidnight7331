@@ -5,7 +5,7 @@
 ## <samp> About Me: </samp>
 - **Name:** Tieno
 - **Occupation:** Student
-- **Age:** 17
+- **Age:** 18
 - **Hobbies:** Hacking, Programming, Game Developement
 
 ## <samp> Hardware I use: </samp>
